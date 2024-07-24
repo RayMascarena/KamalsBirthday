@@ -2166,7 +2166,7 @@ html.cl-loaded .home-content__main {
     }
  
     .home-content__main {
-        padding-right: 6rem;
+        
     }
  
     .home-content__button,
@@ -2260,7 +2260,7 @@ html.cl-loaded .home-content__main {
  
     .home-content__main {
         max-width: 490px;
-        margin-top: 50rem;
+        margin-top: 45rem;
     }
  
 }
