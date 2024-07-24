@@ -2260,6 +2260,7 @@ html.cl-loaded .home-content__main {
  
     .home-content__main {
         max-width: 490px;
+        margin-top: 50rem;
     }
  
 }
