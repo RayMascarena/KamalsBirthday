@@ -2260,7 +2260,7 @@ html.cl-loaded .home-content__main {
  
     .home-content__main {
         max-width: 490px;
-        margin-top: 45rem;
+        margin-top: 48rem;
     }
  
 }
@@ -2278,7 +2278,7 @@ html.cl-loaded .home-content__main {
  
     .home-content__main {
         text-align: center;
-        padding: 0 40px;
+        padding: 0;
     }
  
     .home-content__button {
